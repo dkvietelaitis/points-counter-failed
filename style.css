@@ -1,0 +1,68 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body
+{
+    background: burlywood;
+}
+.points
+{
+    display: flex;
+    margin-top: 15px;
+    margin-left: 10px;
+}
+h1
+{
+    margin-right: 10px;
+    margin-bottom: 20px;
+}
+
+.points-goal
+{
+    display: flex;
+    padding: 10px;
+
+}
+p
+{
+    margin-right: 5px;
+}
+input
+{
+    width: 310px;
+    height: 30px;
+    margin-left: 10px;
+    margin-bottom: 15px;
+}
+.buttons
+{
+    margin-left: 10px;
+
+}
+#one
+{
+    background: red;
+    border: none;
+    width: 100px;
+    height: 30px;
+    border-radius: 3px;
+}
+#two
+{
+    background: green;
+    border: none;
+    width: 100px;
+    height: 30px;
+    border-radius: 3px;
+}
+#reset
+{
+    background: skyblue;
+    border: none;
+    width: 100px;
+    height: 30px;
+    border-radius: 3px;
+}
